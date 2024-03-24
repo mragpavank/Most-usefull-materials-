@@ -1,0 +1,146 @@
+Basics of Python:
+
+Installation and Setup
+Python Syntax
+Data Types
+Variables
+Operators
+Control Structures:
+if-elif-else
+Loops
+Break and Continue
+try-except block
+Functions
+Modules and Packages
+
+Object-Oriented Programming in Python:
+
+Classes and Objects
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+
+Then jump to Python Libraries (Pandas, numpy)
+
+
+Pandas:
+
+What is Pandas?
+Installing Pandas
+Importing Pandas
+Pandas Data Structures (Series, DataFrame, Index)
+
+Working with DataFrames:
+
+Creating DataFrames
+Accessing Data in DataFrames
+Filtering and Selecting Data
+Adding and Removing Columns
+Merging and Joining DataFrames
+Grouping and Aggregating Data
+Pivot Tables
+
+Data Cleaning and Preparation:
+
+Handling Missing Values
+Handling Duplicates
+Data Formatting
+Data Transformation
+Data Normalization
+
+Data Visualization with Matplot:
+
+Line Plots
+Bar Plots
+Scatter Plots
+Histograms
+Box Plots
+Heatmaps
+
+Time Series Analysis with Pandas:
+
+Creating and Manipulating Time Series Data
+Resampling Time Series Data
+Moving Window Functions
+Time Series Visualization
+Input/Output Operations with Pandas
+
+Reading and Writing CSV Files
+Reading and Writing Excel Files
+Reading and Writing SQL Databases
+Reading and Writing JSON Files
+
+Advanced Topics:
+
+Handling Categorical Data with Pandas
+Handling Text Data with Pandas
+Using Pandas with Scikit-learn
+Performance Optimization with Pandas
+
+Data Structures in Python:
+
+Lists
+Tuples
+Dictionaries
+Sets
+
+File Handling in Python:
+
+Reading and Writing Text Files
+Reading and Writing Binary Files
+Working with CSV Files
+Working with JSON Files
+
+Numpy:
+
+What is NumPy?
+Installing NumPy
+Importing NumPy
+NumPy Arrays
+
+NumPy Array Operations:
+
+Creating Arrays
+Accessing Array Elements
+Slicing and Indexing
+Reshaping Arrays
+Combining Arrays
+Splitting Arrays
+Arithmetic Operations
+Broadcasting
+Mathematical Functions
+Statistical Functions
+Linear Algebra Operations
+
+Advanced Array Operations:
+
+Fancy Indexing
+Boolean Indexing
+Structured Arrays
+Broadcasting Rules
+Universal Functions
+Masked Arrays
+
+Working with Data in NumPy:
+
+Reading and Writing Data with NumPy
+Filtering and Sorting Data
+Data Manipulation with NumPy
+Interpolation
+Fourier Transforms
+Window Functions
+
+Performance Optimization with NumPy:
+
+Vectorization
+Memory Management
+Multithreading and Multiprocessing
+Parallel Computing
+
+NumPy with Other Libraries:
+
+SciPy
+Matplotlib
+Pandas
+Scikit-learn
